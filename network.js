@@ -40,12 +40,7 @@
       description: "Estimate federal withholding on bonus and supplemental wages.",
       live: true
     },
-    {
-      name: "Total Compensation Calculator",
-      url: "https://totalcompcalc.com",
-      description: "Calculate the full value of a compensation package.",
-      live: true
-    }
+
   ];
 
   function renderRelatedTools() {
