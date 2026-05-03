@@ -44,6 +44,12 @@
   </url>
 
   <url>
+    <loc>https://federaltaxrules.com/estimated-tax-payments-2026.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://federaltaxrules.com/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
